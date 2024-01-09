@@ -32,7 +32,12 @@ docker compose up -d
 Start the server  
 
 ~~~bash  
-go run github.com/kamaleshpati/wsredisPlayground/cmd/wsredisPlayground    
+go run github.com/kamaleshpati/wsredisPlayground/cmd/wsredisPlayground  
+
+or
+
+go build -o bin/output github.com/kamaleshpati/wsredisPlayground/cmd/wsredisPlayground
+./bin/output
 ~~~  
 
 ## Screenshots 
