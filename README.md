@@ -14,13 +14,13 @@ setup a project in golang that is connected to redis pub/sub, and uses websocket
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/kamaleshpati/websocket-redis-golang-playground/
+  git clone https://github.com/kamaleshpati/wsredisPlayground
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-  cd websocket-redis-golang-playground/
+  cd wsredisPlayground/
 ~~~
 
 Start the redis  
